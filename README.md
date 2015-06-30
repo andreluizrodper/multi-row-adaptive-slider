@@ -4,3 +4,7 @@ A multi row adaptive simple slider with nav
 Change anything you want this simple.
 
 Need a help? Open an issue and we work together bro.
+
+To see everything working: http://jobs.monsterweb.com.br/slider/
+
+=]
