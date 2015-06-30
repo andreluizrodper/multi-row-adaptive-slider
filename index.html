@@ -197,6 +197,7 @@
 					$(".slider").append($("<li/>").width($(window).width()).addClass("slide").append($("<ul/>").addClass("list").append(elem[a])));
 					$(".nav").append($("<li/>").append($("<a/>")));
 				}
+				$(".nav li:first a").addClass("active");
 				$(".slider").width($(window).width() * $(".slider li.slide").size());
 				$(".nav a").click(function(){
 					$(".nav a").removeClass("active");
